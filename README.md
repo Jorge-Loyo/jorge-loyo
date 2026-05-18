@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Programaci%C3%B3n;Tecnolog%C3%ADas+para+la+Salud;Full+Stack+Developer;Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=440&lines=Desarrollador+Full+Stack;DevOps+%26+Cloud;Tecnolog%C3%ADas+para+la+Salud;Siempre+aprendiendo" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,10 +12,11 @@
 
 ```yaml
 nombre: Jorge Loyo
-rol: Estudiante de Programación
+rol: Desarrollador Full Stack & DevOps
 enfoque: Herramientas tecnológicas para la salud
 intereses:
   - Desarrollo Web Full Stack
+  - DevOps & Cloud
   - Tecnologías aplicadas a la salud
   - Inteligencia Artificial
   - Sistemas de gestión hospitalaria
