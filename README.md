@@ -99,6 +99,19 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que mejoren l
 
 ---
 
+## 🌐 Sitios Web
+
+<p align="center">
+  <a href="https://agilize-soluciones.vercel.app">
+    <img src="https://img.shields.io/badge/Agilize_Soluciones-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://jorge-loyo-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-92FE9D?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## 📫 Contacto
 
 <p align="center">
